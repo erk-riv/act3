@@ -1,2 +1,2 @@
 # act3
-Erick Rivera
+https://github.com/erk-riv/act3.git
